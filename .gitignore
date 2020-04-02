@@ -1,3 +1,7 @@
 # dependencies
 
 /client/node_modules
+/api/node_modules
+/node_modules
+/rtmpserver/node_modules
+/client/config.js
